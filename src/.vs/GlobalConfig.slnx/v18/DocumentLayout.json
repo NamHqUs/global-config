@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceCode\\Github\\public\\global-config\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F62600DE-B5DF-4213-80E6-D9D8AB8A50DF}|Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\namh.configuration.globaltemplate\\namh.configuration.globaltemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F62600DE-B5DF-4213-80E6-D9D8AB8A50DF}|Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj|solutionrelative:namh.configuration.globaltemplate\\namh.configuration.globaltemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FBCA46-8C9D-035E-6561-218A427BDF1E}|Global{A1FBCA46-8C9D-035E-6561-218A427BDF1E}|D:\\SourceCode\\Github\\public\\global-config\\src\\Demo\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1FBCA46-8C9D-035E-6561-218A427BDF1E}|Global{A1FBCA46-8C9D-035E-6561-218A427BDF1E}|solutionrelative:Demo\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73C5F20-DB7D-459A-8BD3-F88E49BB999F}|Demo\\WebApi\\WebApi.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\demo\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C73C5F20-DB7D-459A-8BD3-F88E49BB999F}|Demo\\WebApi\\WebApi.csproj|solutionrelative:demo\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62600DE-B5DF-4213-80E6-D9D8AB8A50DF}|Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\namh.configuration.globaltemplate\\globalconfigihostbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62600DE-B5DF-4213-80E6-D9D8AB8A50DF}|Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj|solutionrelative:namh.configuration.globaltemplate\\globalconfigihostbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62600DE-B5DF-4213-80E6-D9D8AB8A50DF}|Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\namh.configuration.globaltemplate\\globalconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62600DE-B5DF-4213-80E6-D9D8AB8A50DF}|Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj|solutionrelative:namh.configuration.globaltemplate\\globalconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\Demo\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Demo\\Directory.Packages.props",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\Demo\\Directory.Packages.props",
+              "RelativeToolTip": "Demo\\Directory.Packages.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-01T19:47:32.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\Demo\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "Demo\\WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\Demo\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "Demo\\WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T19:47:07.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalConfigIHostBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\Namh.Configuration.GlobalTemplate\\GlobalConfigIHostBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Namh.Configuration.GlobalTemplate\\GlobalConfigIHostBuilderExtensions.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\Namh.Configuration.GlobalTemplate\\GlobalConfigIHostBuilderExtensions.cs",
+              "RelativeToolTip": "Namh.Configuration.GlobalTemplate\\GlobalConfigIHostBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:43:43.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Namh.Configuration.GlobalTemplate.csproj",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj",
+              "RelativeDocumentMoniker": "Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj",
+              "RelativeToolTip": "Namh.Configuration.GlobalTemplate\\Namh.Configuration.GlobalTemplate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T19:40:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalConfigExtensions.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\Namh.Configuration.GlobalTemplate\\GlobalConfigExtensions.cs",
+              "RelativeDocumentMoniker": "Namh.Configuration.GlobalTemplate\\GlobalConfigExtensions.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\Namh.Configuration.GlobalTemplate\\GlobalConfigExtensions.cs",
+              "RelativeToolTip": "Namh.Configuration.GlobalTemplate\\GlobalConfigExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:41:29.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

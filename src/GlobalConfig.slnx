@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Demo/">
+    <Project Path="Demo/ConsoleApp/ConsoleApp.csproj" Id="36105460-3d26-4f09-8e13-f9a3779503b5" />
+    <Project Path="Demo/IdProvider/IdProvider.csproj" Id="0bb18fbe-196d-43e4-aa3a-5eb5667caf87" />
+    <Project Path="Demo/WebApi/WebApi.csproj" Id="c73c5f20-db7d-459a-8bd3-f88e49bb999f" />
+  </Folder>
+  <Folder Name="/Demo/Global/">
+    <File Path="Demo/Directory.Build.props" />
+    <File Path="Demo/Directory.Build.targets" />
+    <File Path="Demo/Directory.Packages.props" />
+    <File Path="Demo/GlobalSettings.json" />
+  </Folder>
+  <Project Path="Namh.Configuration.GlobalTemplate/Namh.Configuration.GlobalTemplate.csproj" Id="f62600de-b5df-4213-80e6-d9d8ab8a50df" />
+</Solution>

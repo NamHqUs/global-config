@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceCode\\Github\\public\\global-config\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig.test\\reloadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|solutionrelative:templateconfig.test\\reloadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig.test\\reloadtokentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|solutionrelative:templateconfig.test\\reloadtokentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig.test\\providerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|solutionrelative:templateconfig.test\\providerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig.test\\lookupvaluestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|solutionrelative:templateconfig.test\\lookupvaluestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig.test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|solutionrelative:templateconfig.test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig.test\\getchildrentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|solutionrelative:templateconfig.test\\getchildrentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig.test\\getsectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E602C08-DDEF-571D-6D6E-2BCD036440E5}|TemplateConfig.Test\\TemplateConfig.Test.csproj|solutionrelative:templateconfig.test\\getsectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA201D7F-1016-17F2-C1CD-8A560110AC26}|TemplateConfig\\TemplateConfig.csproj|d:\\sourcecode\\github\\public\\global-config\\src\\templateconfig\\configurationsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA201D7F-1016-17F2-C1CD-8A560110AC26}|TemplateConfig\\TemplateConfig.csproj|solutionrelative:templateconfig\\configurationsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReloadTests.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\ReloadTests.cs",
+              "RelativeDocumentMoniker": "TemplateConfig.Test\\ReloadTests.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\ReloadTests.cs",
+              "RelativeToolTip": "TemplateConfig.Test\\ReloadTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:04:25.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReloadTokenTests.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\ReloadTokenTests.cs",
+              "RelativeDocumentMoniker": "TemplateConfig.Test\\ReloadTokenTests.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\ReloadTokenTests.cs",
+              "RelativeToolTip": "TemplateConfig.Test\\ReloadTokenTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:03:42.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProvidersTests.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\ProvidersTests.cs",
+              "RelativeDocumentMoniker": "TemplateConfig.Test\\ProvidersTests.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\ProvidersTests.cs",
+              "RelativeToolTip": "TemplateConfig.Test\\ProvidersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:03:05.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\appsettings.json",
+              "RelativeDocumentMoniker": "TemplateConfig.Test\\appsettings.json",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\appsettings.json",
+              "RelativeToolTip": "TemplateConfig.Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T17:56:42.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetChildrenTests.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\GetChildrenTests.cs",
+              "RelativeDocumentMoniker": "TemplateConfig.Test\\GetChildrenTests.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\GetChildrenTests.cs",
+              "RelativeToolTip": "TemplateConfig.Test\\GetChildrenTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:44:31.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LookupValuesTest.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\LookupValuesTest.cs",
+              "RelativeDocumentMoniker": "TemplateConfig.Test\\LookupValuesTest.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\LookupValuesTest.cs",
+              "RelativeToolTip": "TemplateConfig.Test\\LookupValuesTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:44:18.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetSectionTests.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\GetSectionTests.cs",
+              "RelativeDocumentMoniker": "TemplateConfig.Test\\GetSectionTests.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig.Test\\GetSectionTests.cs",
+              "RelativeToolTip": "TemplateConfig.Test\\GetSectionTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:41:07.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationSection.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig\\ConfigurationSection.cs",
+              "RelativeDocumentMoniker": "TemplateConfig\\ConfigurationSection.cs",
+              "ToolTip": "D:\\SourceCode\\Github\\public\\global-config\\src\\TemplateConfig\\ConfigurationSection.cs",
+              "RelativeToolTip": "TemplateConfig\\ConfigurationSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:42:00.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

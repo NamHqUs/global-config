@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Demo\\ConsoleApp\\ConsoleApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Demo\\IdProvider\\IdProvider.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Demo\\WebApi\\WebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

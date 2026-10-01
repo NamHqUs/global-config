@@ -1,0 +1,18 @@
+{
+  "IdProvider": {
+    "Url": "http://localhost:8081"
+  },
+
+  "ConsoleApp": {
+    "ClientId": "consoleapp",
+    "ClientSecret": "secret",
+    "Scopes": [ "openid", "profile" ]
+  },
+
+  "WebApi": {
+    "Url": "http://localhost:8083",
+    "ClientId": "webapi",
+    "ClientSecret": "secret",
+    "Scopes": [ "openid", "profile", "api" ]
+  }
+}

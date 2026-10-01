@@ -1,0 +1,9 @@
+<Project>
+
+  <Target Name="CopyGlobalSettings" AfterTargets="Build">
+    <Copy SourceFiles="$(MSBuildProjectDirectory)\..\GlobalSettings.json"
+          DestinationFolder="$(OutputPath)"
+          SkipUnchangedFiles="true" />
+  </Target>
+
+</Project>
