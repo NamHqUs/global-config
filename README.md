@@ -5,6 +5,9 @@ for microservices. It answers a question that service orchestration does not:
 **which settings belong to the system, which belong to each service, and who
 owns their values in every environment?**
 
+For the motivation, market context, and problems this approach addresses, see
+[Why GlobalTemplate?](WhyGlobalTemplate.md).
+
 The model is deliberately simple:
 
 - The software architect defines both `GlobalSettings.json` and each service's
