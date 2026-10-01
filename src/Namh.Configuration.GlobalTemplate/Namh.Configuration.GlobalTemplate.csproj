@@ -9,11 +9,24 @@
 		<AnalysisLevel>latest</AnalysisLevel>
 		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
 
+		<PackageId>Namh.Configuration.GlobalTemplate</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Nam Hoang</Authors>
+		<Owners>Nam Hoang</Owners>
+		<Description>Integrates configuration templates with .NET generic hosts and ASP.NET Core applications, resolving references between values in Microsoft.Extensions.Configuration.</Description>
+		<PackageProjectUrl>https://github.com/NamHqUs/global-config</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/NamHqUs/global-config</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>configuration;templates;Microsoft.Extensions.Configuration;microservices;</PackageTags>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+
 	</PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="Namh.Configuration.Template" Version="1.0.1" />
 		<PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.12" />
+
+		<None Include="..\..\README.md" Pack="true" PackagePath="\" />
 	</ItemGroup>
 
 </Project>
